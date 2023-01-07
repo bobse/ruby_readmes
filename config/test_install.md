@@ -14,7 +14,7 @@ https://github.com/rspec/rspec-rails
 
 ### Capybara instructions (Campus Code):
 
-Para configurar corretamente a execução do Capybara, dentro do arquivo spec/rails_helper.rb, lembre-se de procurar o bloco que começa com `RSpec.configure do |config|` e dentro dele adicionar:
+Para configurar corretamente a execução do Capybara, dentro do arquivo **`spec/rails_helper.rb`**, lembre-se de procurar o bloco que começa com `RSpec.configure do |config|` e dentro dele adicionar:
 
 ```ruby
 config.before(type: :system) { driven_by(:rack_test) }
