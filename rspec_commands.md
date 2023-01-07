@@ -13,7 +13,7 @@ describe 'descrição do teste' do
     end
 end
 ```
-# Principais comandos
+`Principais comandos`
 
 - `visit('/'), acessa uma rota`
 - `expect(page).to have_content('conteúdo procurado'), verifica se o 'conteúdo procurado' existe`
