@@ -1,6 +1,6 @@
 # Principais comandos Rspec
 
-- `Bloco principal`
+`Bloco principal`
 
 ```ruby
 require 'rails_helper'
