@@ -21,3 +21,5 @@ https://github.com/heartcombo/devise#starting-with-rails
 - `rails db:migrate`
 
 - Be sure to have rootpath set in your routes
+
+- Generating the views: `rails generate devise:views`
